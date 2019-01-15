@@ -9,6 +9,7 @@ Analyser l’année 2018 via la base de données *GDELT* en utilisant le **tone*
 2. pour un acteur(pays/organisation ...) ⇒ afficher les evenements qui y font reference
 3. les sujets (acteurs) qui ont eu le plus d’articles positifs/negatifs (mois, pays, langue de l’article).
 4. acteurs/pays/organisations qui divisent le plus 
+
 ## Schéma
 
 ![Diagramme](INF728DIagram.png)

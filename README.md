@@ -1,5 +1,5 @@
 # Projet Bigdata
-<a style="color: black" href="http://andreiarion.github.io/">projet</a>
+<a style="color: black" href="http://andreiarion.github.io/Projet2018-intro.html#/">projet</a>
 ## But
 Analyser l’année 2018 via la base de données *GDELT* en utilisant le **tone**  des articles dans les medias des divers pays du monde
 
@@ -10,6 +10,8 @@ Analyser l’année 2018 via la base de données *GDELT* en utilisant le **tone*
 3. les sujets (acteurs) qui ont eu le plus d’articles positifs/negatifs (mois, pays, langue de l’article).
 4. acteurs/pays/organisations qui divisent le plus 
 
+## Question supplémentaire
+5. l'évolution de la relation entre deux pays au cours du temps
 ## Schéma
 
 ![Diagramme](INF728DIagram.png)

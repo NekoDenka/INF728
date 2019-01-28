@@ -14,4 +14,4 @@ Analyser l’année 2018 via la base de données *GDELT* en utilisant le **tone*
 5. l'évolution de la relation entre deux pays au cours du temps
 ## Schéma
 
-![Diagramme](INF728DIagram.png)
+![Architcture](https://raw.githubusercontent.com/rreinette/INF728/master/Img/Screenshot%20from%202019-01-28%2009-42-38.png)

@@ -1,5 +1,5 @@
 # Projet Bigdata
-<a style="color: black" href="http://andreiarion.github.io/Projet2018-intro.html#/">projet</a>
+<a style="color: black" href="http://andreiarion.github.io/Projet2018-intro.html#/">Lien pour plus d'informations sur le projet</a>
 ## But
 Analyser l’année 2018 via la base de données *GDELT* en utilisant le **tone**  des articles dans les medias des divers pays du monde
 

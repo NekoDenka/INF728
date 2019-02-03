@@ -27,9 +27,9 @@ Pour ce projet , on a opté pour l'architecture suivante:
 
 ## Organistation du dossier : 
 
-*1- Le dossier Data contient des métadonnées sur les events et les pays et un exemple dejeux de donnée
-*2- Le dossier MongoDB contient les un notebook jupyter regroupant les résultats des requetes et la partie visualisation avec bokeh et matplotlib
-*3- Le dossier Vizualisation contient le code de l'application FLASK 
-*4- Le dossier config_aws regroupe tous les scripts de configurations utilisés dans le projet  ( il y a un fichier zip à utiliser directement ) 
-*5- Le dossier scala contient un zepplin notebook permettant le preprocessing des fichiers GDELT et un sous dossier "scripts" qui contient les codes scala pour chaque requetes 
-*6- Le dossier Presentation contient le support ppt de la présentation
+1. Le dossier Data contient des métadonnées sur les events et les pays et un exemple dejeux de donnée
+2. Le dossier MongoDB contient les un notebook jupyter regroupant les résultats des requetes et la partie visualisation avec bokeh et matplotlib
+3. Le dossier Vizualisation contient le code de l'application FLASK 
+4. Le dossier config_aws regroupe tous les scripts de configurations utilisés dans le projet  ( il y a un fichier zip à utiliser directement ) 
+5. Le dossier scala contient un zepplin notebook permettant le preprocessing des fichiers GDELT et un sous dossier "scripts" qui contient les codes scala pour chaque requetes 
+6. Le dossier Presentation contient le support ppt de la présentation
